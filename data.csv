@@ -1,0 +1,18 @@
+label,value,r,g,b,url
+probabilistic programming,9,0,0,0,key_htmls/probabilistic_programming.html
+probabilistic logic programming,7,123,0,140,key_htmls/probabilistic_logic_programming.html
+generative models,6,67,0,162,key_htmls/generative_models.html
+abductive logic programming,4,0,0,209,key_htmls/abductive_logic_programming.html
+abduction,4,0,120,221,key_htmls/abduction.html
+graphical models,2,0,158,207,key_htmls/graphical_models.html
+topic modelling,2,0,170,152,key_htmls/topic_modelling.html
+binary decision diagrams,2,0,157,29,key_htmls/binary_decision_diagrams.html
+problog,2,0,188,0,key_htmls/problog.html
+preference modelling,2,0,231,0,key_htmls/preference_modelling.html
+mcmc,2,103,255,0,key_htmls/mcmc.html
+boolean functions,2,228,241,0,key_htmls/boolean_functions.html
+em,1,255,201,0,key_htmls/em.html
+BUGS,1,255,105,0,key_htmls/BUGS.html
+markov logic,1,236,0,0,key_htmls/markov_logic.html
+supervised ordering,1,207,0,0,key_htmls/supervised_ordering.html
+church,1,204,204,204,key_htmls/church.html
