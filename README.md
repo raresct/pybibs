@@ -28,7 +28,7 @@ Unix:
 
 # Usage
 
-`$ python pybibs.py run --files=FILE1,FILE2`
+`$ python pybibs.py run --files=FILE1,FILE2,...`
 
 e.g. the example above is created by
 
