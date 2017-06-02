@@ -18,6 +18,7 @@ Python:
 * matplotlib
 * lxml
 * requests
+* python-fire (https://github.com/google/python-fire)
 
 Unix:
 
